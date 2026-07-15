@@ -1,22 +1,8 @@
-Hi 
+M2 Natural Language Processing, Université de Lorraine / LORIA (Nancy).
 
-<!--
-**shayanshariff/shayanshariff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Current work: master's thesis on mechanistic interpretability of context–memory conflicts in code-generating LLMs — behavioral evaluation, logit lens, and activation patching across 31 open-weight models (0.5–32B, 7 families) on the Grid5000 research grid. Defending August 2026.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=shayanshariff&count_private=true&show_icons=true&theme=dracula)
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shayanshariff)](https://github.com/shayanshariff/github-readme-stats)
+Co-author on a paper under review at EMNLP 2026 (benchmark bias; extends our TALN 2026 paper)
+Before the master's: two years as a software engineer building LLM voice products, payments. 
+BlueDot Technical AI Safety, July 2026
+Research code lives on institutional infrastructure (Grid5000 / lab Gitea); what's here is older personal and university work.
